@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi I'm Enes 👋
 
-[![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesckr)](https://github.com/enesckr/enesckr)
+[![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesckr&show_icons=true&layout=compact&theme=gradient)](https://github.com/enesckr/enesckr)
 
 <!--
-**enesckr/enesckr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
