@@ -1,6 +1,6 @@
 ### Hi I'm Enes 👋
 
-[![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesckr&show_icons=true&layout=compact&theme=dark)](https://github.com/enesckr/enesckr)
+[![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesckr&show_icons=true&layout=compact&theme=radical)](https://github.com/enesckr/enesckr)
 
 <!--
 
