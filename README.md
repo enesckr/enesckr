@@ -1,6 +1,4 @@
-### Hi I'm Enes 👋
-
-![Image of Enes](https://github.com/enesckr/enesckr/blob/master/github-banner.jpg)
+### Hi I'm Enes 👋 ![Image of Enes](https://github.com/enesckr/enesckr/blob/master/github-banner.jpg)
 
 [![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesckr&show_icons=true&layout=compact&theme=radical)](https://github.com/enesckr/enesckr)
 
