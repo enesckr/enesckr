@@ -1,8 +1,7 @@
 ### Hi I'm Enes 👋 
 ![Image of Enes](/github-banner.jpg)
-
-[![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesckr&show_icons=true&layout=compact&theme=radical)](https://github.com/enesckr/enesckr)
-[![Enes's profile view counter](https://komarev.com/ghpvc/?username=enesckr)
+![Enes's profile view counter](https://komarev.com/ghpvc/?username=enesckr)
+![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesckr&show_icons=true&layout=compact&theme=radical)](https://github.com/enesckr/enesckr)
 
 <!--
 
